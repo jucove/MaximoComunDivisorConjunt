@@ -1,0 +1,2 @@
+class OperacionesEnteros:
+    pass
